@@ -1,5 +1,5 @@
 ## Socials
-warning: i don't actually use social media but it'll try to check these like twice a year
+warning: i don't actually use social media but it'll try to check these like twice a year so if you want to DM me, do it there
 
 - Twitter https://x.com/ccleanershot
 - BlueSky https://bsky.app/profile/ccleanershot.bsky.social
