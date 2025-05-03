@@ -1,6 +1,6 @@
 ## Socials
 warning: i don't actually use social media but it'll try to check these like twice a year
 
-https://x.com/ccleanershot
-https://bsky.app/profile/ccleanershot.bsky.social
-https://mastodon.social/@ccleanershot
+- Twitter https://x.com/ccleanershot
+- BlueSky https://bsky.app/profile/ccleanershot.bsky.social
+- Mastodon https://mastodon.social/@ccleanershot
