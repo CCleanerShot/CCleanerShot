@@ -7,3 +7,6 @@ warning: i don't actually use social media but it'll try to check these like twi
 
 ## Tech Goals 2025
 - Regular Contributor to https://github.com/sveltejs/svelte
+- Regular Contributor to https://github.com/sveltejs/kit
+
+Also Svelte > React.
