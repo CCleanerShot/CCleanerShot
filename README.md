@@ -5,8 +5,16 @@ warning: i don't actually use social media but i'll try to check these like twic
 - BlueSky https://bsky.app/profile/ccleanershot.bsky.social
 - Mastodon https://mastodon.social/@ccleanershot
 
-## Tech Goals 2025
-- Regular Contributor to https://github.com/sveltejs/svelte
-- Regular Contributor to https://github.com/sveltejs/kit
-
+## Programming Language Tier List (Considering Toolchain + Ecosystem)
+- S: Rust
+- A: TS/JS, C#, Python
+- B: C++ (toolchain sucks)
+- C: Java (language itself is good)
+- D: Ruby (carried by Rails)
 also Svelte > React
+
+## FullStack Web Framework Tier List
+- S: Astro, SvelteKit
+- A: Ruby on Rails (with real frontend framework)
+- B: NextJS
+- C: Blazor (websockets or MBs of initial load, ya no)
