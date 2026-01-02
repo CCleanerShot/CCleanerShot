@@ -11,6 +11,7 @@ warning: i don't actually use social media but i'll try to check these like twic
 - B: C++ (toolchain sucks)
 - C: Java (language itself is good)
 - D: Ruby (carried by Rails)
+- F: Bash
 also Svelte > React
 
 ## FullStack Web Framework Tier List
