@@ -5,7 +5,7 @@ warning: i don't actually use social media but i'll try to check these like twic
 - BlueSky https://bsky.app/profile/ccleanershot.bsky.social
 - Mastodon https://mastodon.social/@ccleanershot
 
-## Programming Language Tier List (Considering Toolchain + Ecosystem)
+## Programming Language Tier List (Considering Ecosystem)
 - S: Rust
 - A: TS/JS, C#, Python
 - B: C++ (toolchain sucks)
